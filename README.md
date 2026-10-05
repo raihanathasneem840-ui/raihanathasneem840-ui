@@ -12,16 +12,4 @@ currently working on my analyst career 😶‍🌫️😶‍🌫️😶‍🌫�
 ![](https://streak-stats.demolab.com/?user=raihanathasneem840-ui&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raihanathasneem840-ui&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raihanathasneem840-ui&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raihanathasneem840-ui&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=raihanathasneem840-ui&icon=4&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

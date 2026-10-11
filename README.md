@@ -1,5 +1,5 @@
 # 💫 About Me:
-somewhere between business logic and algorithmic answers .<br>Hera to learn, experiment, and build things that makes sense (⓿_⓿)
+somewhere between business logic and algorithmic answers .<br>Here to learn, experiment, and build things that makes sense (⓿_⓿)
 
 
 ## 🌐 Socials:
